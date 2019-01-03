@@ -1,0 +1,16 @@
+[
+  {
+    "command": "message",
+    "keys": [
+      "!message",
+      "!ms"
+    ]
+  },
+  {
+    "command": "bot",
+    "keys": [
+      "!bot",
+      "!bc"
+    ]
+  }
+]
