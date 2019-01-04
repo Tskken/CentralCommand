@@ -2,3 +2,5 @@
 *.xml
 *.iml
 token
+go.sum
+CentralCommand
