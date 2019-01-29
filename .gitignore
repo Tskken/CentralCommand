@@ -1,6 +1,5 @@
 
-*.xml
-*.iml
 token
 go.sum
 CentralCommand
+CentralCommand.exe
