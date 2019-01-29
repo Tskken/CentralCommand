@@ -3,9 +3,9 @@ package main
 import (
 	"bufio"
 	"encoding/json"
-	"github.com/Tskana/CentralCommand/bc"
-	"github.com/Tskana/CentralCommand/core"
-	"github.com/Tskana/CentralCommand/mc"
+	"github.com/Tskken/CentralCommand/bc"
+	"github.com/Tskken/CentralCommand/core"
+	"github.com/Tskken/CentralCommand/mc"
 	"io"
 	"log"
 	"os"

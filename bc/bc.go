@@ -1,7 +1,7 @@
 package bc
 
 import (
-	"github.com/Tskana/CentralCommand/core"
+	"github.com/Tskken/CentralCommand/core"
 )
 
 type BotCommand struct {

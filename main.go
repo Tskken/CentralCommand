@@ -8,7 +8,7 @@ Github: https://github.com/Tskana
 
 import (
 	"fmt"
-	"github.com/Tskana/CC/core"
+	"github.com/Tskken/CentralCommand/core"
 	"log"
 	"os"
 	"os/signal"

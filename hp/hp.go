@@ -1,7 +1,7 @@
 package hp
 
 import (
-	"github.com/Tskana/CentralCommand/core"
+	"github.com/Tskken/CentralCommand/core"
 )
 
 type HelpCommand struct {

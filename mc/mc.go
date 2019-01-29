@@ -1,6 +1,6 @@
 package mc
 
-import "github.com/Tskana/CentralCommand/core"
+import "github.com/Tskken/CentralCommand/core"
 
 type MessageCommand struct {
 	*core.Command
